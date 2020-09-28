@@ -14,3 +14,5 @@ The goal of this project was to take the dataset located [here](https://d396qusz
   -  Describes the variables, the data, and any transformations or work that was performed to clean up the data.
   
   Working in this Repo.
+  IF anyone wants to colloborate in Web Developement and ML/DL Projects
+  You can Email me at :emai: alihasanjatoi@gmail.com
